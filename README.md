@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm M 👋
+# Hey, I'm Moiz 👋
 
 **Engineering • Software • AI • Cybersecurity**
 
