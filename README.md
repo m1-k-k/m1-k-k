@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hey, I'm Moiz 👋
+# Hey, I'm M 👋
 
 **Engineering • Software • AI • Cybersecurity**
 
-Sixth-form student (Maths, Physics, Computer Science) who builds software that touches real engineering problems — and enjoys finding where systems break just as much as building them.
+Sixth-form student (Maths, Physics, Computer Science) who builds software that touches real engineering problems, and enjoys finding where systems break just as much as building them.
 
 </div>
 
@@ -12,25 +12,25 @@ Sixth-form student (Maths, Physics, Computer Science) who builds software that t
 
 ## About Me
 
-I'm into engineering, AI/ML, cybersecurity, computer networks, autonomous systems, and full-stack development. Most of what's below started as a "can I actually build this" question — a scanner, a routing app, a civic-tech dashboard — and turned into something I kept iterating on.
+I'm into engineering, AI/ML, cybersecurity, computer networks, autonomous systems, and full-stack development. Most of what's below started as a "can I actually build this" question: a scanner, a routing app, a civic-tech dashboard, and turned into something I kept iterating on.
 
-I founded and lead my school's **Cybersecurity Society**, and I've had engineering/work-experience exposure at **BAE Systems**, **Lockheed Martin Space**, and **BP** — which is a big part of why I care about software that connects back to real-world systems, not just apps for their own sake.
+I founded and lead my school's **Cybersecurity Society**, and I've had engineering/work-experience exposure at **BAE Systems**, **Lockheed Martin Space**, and **BP**, which is a big part of why I care about software that connects back to real-world systems, not just apps for their own sake.
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔎 [Port CVE Scanner](https://github.com/m1-k-k/port-cve-scanner)
-A multithreaded TCP/UDP port scanner with service fingerprinting, banner grabbing, and NVD CVE lookup — built for my school's Cybersecurity Society. Supports TLS and produces structured reports, with a focus on Python and low-level networking.
+A multithreaded TCP/UDP port scanner with service fingerprinting, banner grabbing, and NVD CVE lookup, built for my school's Cybersecurity Society. Supports TLS and produces structured reports, with a focus on Python and low-level networking.
 
 ### 🧠 [NeuroLearn](https://github.com/m1-k-k/leaf-hacks)
-An AI-powered revision platform built for SEN and neurodiverse learners. You set a "how's your brain right now" load meter and it rewrites the explanation live — from full detail down to a calm one-idea-at-a-time mode — plus dedicated accessibility modes (deaf mode, colour-blind palettes, low-stimulation "sand mode").
+An AI-powered revision platform built for SEN and neurodiverse learners. You set a "how's your brain right now" load meter and it rewrites the explanation live, from full detail down to a calm one-idea-at-a-time mode, plus dedicated accessibility modes (deaf mode, colour-blind palettes, low-stimulation "sand mode").
 
 ### 🏘️ [NeighbourIQ](https://github.com/m1-k-k/neighbourIQ)
-Resident and council dashboards that pull live UK data — flood risk (Environment Agency), crime/incident data (data.police.uk), weather, and traffic — into a transparent, rules-based risk view for a local area. Civic-tech focused, with interactive mapping and a scripted demo mode for pitching.
+Resident and council dashboards that pull live UK data, flood risk (Environment Agency), crime/incident data (data.police.uk), weather, and traffic, into a transparent, rules-based risk view for a local area. Civic-tech focused, with interactive mapping and a scripted demo mode for pitching.
 
 ### 🧭 [NaviGo](https://github.com/m1-k-k/navigo)
-A safety-first navigation PWA for young people in London. Offers dual routing (fast vs safe), SOS safe spaces via live TfL station data, off-path alerts, and street hazard reporting — built on OpenStreetMap and OSRM.
+A safety-first navigation PWA for young people in London. Offers dual routing (fast vs safe), SOS safe spaces via live TfL station data, off-path alerts, and street hazard reporting, built on OpenStreetMap and OSRM.
 
 ---
 
@@ -72,7 +72,7 @@ A safety-first navigation PWA for young people in London. Offers dual routing (f
 
 ## 🏗️ Beyond Code
 
-Engineering exposure through **BAE Systems**, **Lockheed Martin Space**, and **BP** shaped how I think about software — I'm most interested in the point where code meets physical systems and real infrastructure, not just screens.
+Engineering exposure through **BAE Systems**, **Lockheed Martin Space**, and **BP** shaped how I think about software. I'm most interested in the point where code meets physical systems and real infrastructure, not just screens.
 
 ---
 
