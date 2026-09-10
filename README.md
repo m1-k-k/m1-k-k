@@ -6,6 +6,8 @@
 
 Sixth-form student (Maths, Physics, Computer Science) who builds software that touches real engineering problems, and enjoys finding where systems break just as much as building them.
 
+[![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/33107862/moiz)
+
 </div>
 
 ---
