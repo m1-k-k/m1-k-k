@@ -92,6 +92,12 @@ Engineering exposure through **BAE Systems**, **Lockheed Martin Space**, and **B
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m1-k-k&layout=compact&theme=default&hide_border=true" />
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=m1-k-k&theme=dark&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=m1-k-k&theme=default&hide_border=true" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=m1-k-k&theme=default&hide_border=true" />
+</picture>
+
 </div>
 
 ---
