@@ -6,7 +6,7 @@
 
 Sixth-form student (Maths, Physics, Computer Science) who builds software that touches real engineering problems, and enjoys finding where systems break just as much as building them.
 
-[![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/33107862/moiz)
+
 
 </div>
 
@@ -60,6 +60,7 @@ A safety-first navigation PWA for young people in London. Offers dual routing (f
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+[![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/33107862/moiz)
 
 ---
 
