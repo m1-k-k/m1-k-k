@@ -7,7 +7,6 @@
 Sixth-form student (Maths, Physics, Computer Science) who builds software that touches real engineering problems, and enjoys finding where systems break just as much as building them.
 
 
-
 </div>
 
 ---
