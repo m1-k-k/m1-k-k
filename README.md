@@ -1,114 +1,60 @@
-<div align="center">
+# Hi, I'm Moiz
 
-# Hey, I'm Moiz 👋
+**Engineering · Software · AI · Cybersecurity**
 
-**Engineering • Software • AI • Cybersecurity**
+I'm a sixth-form student studying Maths, Physics, and Computer Science. I build software to explore how systems work—from network services and camera control to accessible learning tools and applications built around public data.
 
-Sixth-form student (Maths, Physics, Computer Science) who builds software that touches real engineering problems, and enjoys finding where systems break just as much as building them.
+I founded and lead my school's **Cybersecurity Society**. Engineering and work-experience exposure at **BAE Systems**, **Lockheed Martin Space**, and **BP** has shaped my interest in the connection between software, physical systems, and infrastructure.
 
+## Selected projects
 
-</div>
+### [Port CVE Scanner](https://github.com/m1-k-k/port-cve-scanner)
 
----
+A Python TCP/UDP scanner built for the Herschel Grammar School Cybersecurity Society. It combines concurrent socket scanning, service fingerprinting, TLS inspection, NVD CVE lookups, and structured reports. The project includes regression tests and CI across several Python versions.
 
-## About Me
+**Focus:** networking, concurrency, protocol handling, and interpreting security findings.
 
-I'm into engineering, AI/ML, cybersecurity, computer networks, autonomous systems, and full-stack development. Most of what's below started as a "can I actually build this" question: a scanner, a routing app, a civic-tech dashboard, and turned into something I kept iterating on.
+### [NeuroLearn](https://github.com/m1-k-k/leaf-hacks)
 
-I founded and lead my school's **Cybersecurity Society**, and I've had engineering/work-experience exposure at **BAE Systems**, **Lockheed Martin Space**, and **BP**, which is a big part of why I care about software that connects back to real-world systems, not just apps for their own sake.
+An adaptive revision prototype designed with SEN and neurodiverse learners in mind. A sensory-load slider changes the level of detail, presentation, and tone of Gemini-generated explanations. Follow-up chat, colour palettes, visual cues, text-to-speech controls, and a breathing view support different ways of interacting with the material.
 
----
+**Focus:** accessible interface design, streamed AI responses, and adapting information density.
 
-## 🚀 Featured Projects
+### [NeighbourIQ](https://github.com/m1-k-k/neighbourIQ)
 
-### 🔎 [Port CVE Scanner](https://github.com/m1-k-k/port-cve-scanner)
-A multithreaded TCP/UDP port scanner with service fingerprinting, banner grabbing, and NVD CVE lookup, built for my school's Cybersecurity Society. Supports TLS and produces structured reports, with a focus on Python and low-level networking.
+Council and resident dashboards that combine UK flood, weather, monthly crime, and optional traffic data. Transparent TypeScript scoring rules drive the indicators, while labelled synthetic resident records and a scripted Millhaven scenario demonstrate the wider concept.
 
-### 🧠 [NeuroLearn](https://github.com/m1-k-k/leaf-hacks)
-An AI-powered revision platform built for SEN and neurodiverse learners. You set a "how's your brain right now" load meter and it rewrites the explanation live, from full detail down to a calm one-idea-at-a-time mode, plus dedicated accessibility modes (deaf mode, colour-blind palettes, low-stimulation "sand mode").
+**Focus:** public-data integration, interactive maps, visualisation, and explainable scoring.
 
-### 🏘️ [NeighbourIQ](https://github.com/m1-k-k/neighbourIQ)
-Resident and council dashboards that pull live UK data, flood risk (Environment Agency), crime/incident data (data.police.uk), weather, and traffic, into a transparent, rules-based risk view for a local area. Civic-tech focused, with interactive mapping and a scripted demo mode for pitching.
+### [NaviGo](https://github.com/m1-k-k/navigo)
 
-### 🧭 [NaviGo](https://github.com/m1-k-k/navigo)
-A safety-first navigation PWA for young people in London. Offers dual routing (fast vs safe), SOS safe spaces via live TfL station data, off-path alerts, and street hazard reporting, built on OpenStreetMap and OSRM.
+A London navigation prototype with route comparison, night-time behaviour, nearby station/library lookup, browser-local hazard reports, and optional authentication. Its “safe” route selection uses inspectable street-name heuristics; it is a demonstration of the idea rather than a validated safety rating.
 
----
+**Focus:** geospatial interfaces, routing APIs, browser location, and full-stack integration.
 
-## 🛠️ Tech Stack
+### [Finger Paint](https://github.com/m1-k-k/finger-paint)
 
-**Languages & Core**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+An OpenCV experiment that detects the largest moving region in an RTSP camera stream and sends ONVIF pan-and-tilt commands to follow it. A desktop preview and configurable thresholds make the feedback loop visible.
 
-**Frontend**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Leaflet](https://img.shields.io/badge/-Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
+**Focus:** computer vision, camera protocols, and software controlling physical hardware.
 
-**Backend & Data**
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![REST APIs](https://img.shields.io/badge/-REST_APIs-005571?style=flat-square)
-![OpenStreetMap](https://img.shields.io/badge/-OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white)
-![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+## Technologies I use
 
-**Tools & Platform**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-[![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/33107862/moiz)
+| Area | Tools |
+| --- | --- |
+| Languages | Python, TypeScript, JavaScript |
+| Web interfaces | React, Next.js, Tailwind CSS, Leaflet, Recharts |
+| AI and vision | Gemini APIs, Vercel AI SDK, OpenCV, NumPy |
+| Data and services | REST APIs, Supabase, OpenStreetMap |
+| Development | Git, GitHub Actions, Pytest, Linux, Vercel |
 
----
+## Interests
 
-## 🔭 Current Work / Interests
+- Autonomous systems and self-driving simulations using genetic algorithms and neural networks.
+- Cybersecurity tooling, computer networks, and how services behave at the protocol level.
+- Applied AI that gives users control over the experience.
+- Engineering projects that connect software with the physical world.
 
-- Autonomous systems & self-driving simulation (genetic algorithms, neural networks)
-- Cybersecurity tooling and network security
-- Applied AI/ML in real products
-- Engineering systems that combine software with the physical/real world
+## Elsewhere
 
----
-
-## 🏗️ Beyond Code
-
-Engineering exposure through **BAE Systems**, **Lockheed Martin Space**, and **BP** shaped how I think about software. I'm most interested in the point where code meets physical systems and real infrastructure, not just screens.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=m1-k-k&show_icons=true&theme=dark&hide_border=true&count_private=false" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=m1-k-k&show_icons=true&theme=default&hide_border=true&count_private=false" />
-  <img alt="M's GitHub Stats" src="https://github-readme-stats-fast.vercel.app/api?username=m1-k-k&show_icons=true&theme=default&hide_border=true&count_private=false" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=m1-k-k&layout=compact&theme=dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=m1-k-k&layout=compact&theme=default&hide_border=true" />
-  <img alt="Top Languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=m1-k-k&layout=compact&theme=default&hide_border=true" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=m1-k-k&theme=dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=m1-k-k&theme=default&hide_border=true" />
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=m1-k-k&theme=default&hide_border=true" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-**Engineering × Software × AI**
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/moizk)
-
-
-</div>
+[Stack Overflow](https://stackoverflow.com/users/33107862/moiz) · [Buy Me a Coffee](https://www.buymeacoffee.com/moizk)
